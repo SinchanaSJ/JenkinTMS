@@ -2,9 +2,9 @@ package com.tmsystem;
 
 import org.testng.annotations.Test;
 
-public class Demo13 {
+public class Demo12Test {
 	@Test
 	public void Demo() {
-		System.out.println("--Demo13--");
+		System.out.println("--Demo--");
 	}
 }
